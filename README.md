@@ -1,4 +1,4 @@
-# Optimization-Techniques
+# Numerical Methods
 
 Cochin University of Science and Technology
 Department of Computer Science
